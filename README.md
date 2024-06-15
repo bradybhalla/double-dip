@@ -6,7 +6,7 @@ This is the code for my implementation of the Double-DIP framework that I made a
 ## Results
 My full report for this project is in [`report.pdf`](report.pdf). The Double-DIP framework can be used for a wide variety of tasks. The image shown below is an example of watermark removal, where the top row of images are given as inputs and the outputs are in the bottom row. More results are shown in the report.
 
-![watermark](plots/watermark-1.png)
+![watermark](plots/watermark-1-cropped.png)
 
 ## Replicating results
 
